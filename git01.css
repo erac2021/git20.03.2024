@@ -20,3 +20,8 @@ html{
 body{
     background-color: var(--fundo);
 }
+
+table, tr, td {
+    border: 1px solid red;
+    text-align: center;
+}
